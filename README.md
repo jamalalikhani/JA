@@ -11,10 +11,10 @@ Results are shown in below:
 * Accuracy by kNN (scratch):-----------------------97.8%
 * Accuracy by SVM: --------------------------------99.3%
 * Accuracy by SVM (with scaling):------------------97.1%
-* Accuracy by KMeans:---------------------------89.8%
-* Accuracy by KMeans (with scaling):------------96.4%
-* Accuracy by KMeans (Scratch):-----------------89.8%
-* Accuracy by LinearRegression:---------------------75.8%
+* Accuracy by KMeans:---------------------------------89.8%
+* Accuracy by KMeans (with scaling):------------------96.4%
+* Accuracy by KMeans (Scratch):-----------------------89.8%
+* Accuracy by LinearRegression:-----------------------75.8%
 * Accuracy by LinearRegression (with scaling):--76.1%
 * Accuracy by LogisticRegression:---------------93.4%
 * Accuracy by LogisticRegression (scaled):------97.1%
