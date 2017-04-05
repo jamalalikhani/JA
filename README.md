@@ -22,8 +22,8 @@ Results are shown in below:
 * Accuracy by MLP (scratch):--------------------99.3%
 * Accuracy by AdaBoost:-------------------------99.3%
 * Accuracy by DecisionTree:---------------------99.3%
-* Accuracy by Naive Bayes:----------------------95.6%
+* Accuracy by Naive Bayes:-----------------------95.6%
 * Accuracy by Naive Bayes (from scratch):-----95.6%
 
 A sepearte code is also implemented to apply TensorFlow on the Breast Cancer dataset. Please run `BreastCancer_MLP_TenFlw.py`. The accuracy of 2 layers, each with 10 neurons is:
-* Accuracy by MLP (TensorFolo):-----------------100.0%
+* Accuracy by MLP (TensorFolo):--------------------------100.0%
