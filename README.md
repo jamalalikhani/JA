@@ -7,9 +7,9 @@ You are more than welcome to use the codes. Please email me if you find somethin
 You have to run `python3 BreastCancer_Classific.py` to call the classification algorithms from either the `sklearn` or from my own implementation (from scratch) of `classification_methods.py`.
 
 Results are shown in below:
-* Accuracy by kNN: -----------------------------98.5%
-* Accuracy by kNN (scratch):--------------------97.8%
-* Accuracy by SVM: -----------------------------99.3%
+* Accuracy by kNN: '-----------------------------98.5%
+* Accuracy by kNN (scratch):'--------------------97.8%
+* Accuracy by SVM: '-----------------------------99.3%
 * Accuracy by SVM (with scaling):---------------97.1%
 * Accuracy by KMeans:---------------------------89.8%
 * Accuracy by KMeans (with scaling):------------96.4%
