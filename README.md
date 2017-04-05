@@ -1,4 +1,4 @@
-# A Package of 10 classification algorithms on the Breast Cancer dataset:
+# A package of 10 classification algorithms on the Breast Cancer dataset:
 In this attempt, I have used `sklearn`, `TensorFlow`, and `my own implementation` to compare the performance and accuracy of different machine learning algorithms over Breast Cancer data set with binomia calsses and 9 dimensional features. 
 
 You are more than welcome to use the codes. Please email me if you find something usefull to share at: jamal.alikhani@gmail.com. 
@@ -26,4 +26,4 @@ Results are shown in below:
 * Accuracy by Naive Bayes (from scratch):-----95.6%
 
 A sepearte code is also implemented to apply TensorFlow on the Breast Cancer dataset. Please run `BreastCancer_MLP_TenFlw.py`. The accuracy of 2 layers, each with 10 neurons is:
-* Accuracy by MLP (TensorFolo):--------------------------100.0%
+* Accuracy by MLP (TensorFolo):----------------------------100.0%
